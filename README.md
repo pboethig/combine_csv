@@ -1,5 +1,7 @@
-# combine_csv
-#prerequisites
+# combine_csv is a simple pythi script to combine csv files
+- put all files in data folder and run script
+- output wll be found in "cache" folder
+# prerequisites
 - panda installed
 - python >=3.7
 
