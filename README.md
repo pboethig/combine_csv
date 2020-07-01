@@ -10,7 +10,7 @@
 ## Install dependencies (linux/debian)
 ``` sh
 sudo apt-get install python3.8
-pip install panda
+pip install pandas
 ```
 ### Run
 ``` sh
